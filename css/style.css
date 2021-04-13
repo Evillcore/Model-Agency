@@ -2081,7 +2081,7 @@ body.ie ._ibg img {
   right: 0px;
   width: 5%;
   height: 90%;
-  z-index: 50;
+  z-index: 170;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;

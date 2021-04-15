@@ -1895,18 +1895,18 @@ body.ie ._ibg img {
 .main-slider .swiper-slide-active .main-slider__image img {
   display: block;
   /* animation: sscale 10s  linear forwards infinite  ;
-                
+
 
                 @keyframes sscale  {
                     0% {
                         transform: scale(1);
                     }
 
-                    
+
                     100% {
                         transform: scale(1.1);
                     }
-                    
+
                 } */
 }
 
@@ -2081,7 +2081,7 @@ body.ie ._ibg img {
   right: 0px;
   width: 5%;
   height: 90%;
-  z-index: 170;
+  z-index: 100;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
